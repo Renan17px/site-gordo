@@ -5,10 +5,22 @@
     font-style: normal;
 }
 
-h1, h3, p {
+h1, h2, h3, p {
     color: white;
+}
+
+.gordo {
+    color: black;
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
 }
 
 img {
     border-radius: 50%;
+}
+
+.botao_href{
+    text-decoration: none;
+    color: white;
 }

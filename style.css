@@ -3,6 +3,7 @@
     font-family: "Lato", sans-serif;
     font-weight: 400;
     font-style: normal;
+    text-decoration: none;
 }
 hr {
     color: rgb(170, 139, 0);
@@ -12,10 +13,22 @@ h1, p, h3, h6, h2 {
     color: white;
 }
 
+.agordo{
+    color: black;
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
+}
+
 img {
     border-radius: 10%;
 }
 
 form, select, input, button, textarea, details, summary, progress {
+    color: white;
+}
+
+.botao_href{
+    text-decoration: none;
     color: white;
 }

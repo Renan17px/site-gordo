@@ -1,0 +1,29 @@
+* {
+    color: white;
+    background-color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.gatodebosta {
+    position: absolute;
+    top: 90px;
+    left: 1200px;
+}
+
+button {
+    color: black;
+    background-color: pink;
+    width: 90px;
+    height: 35px;
+   
+}
+
+a {
+    color: green;
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
+}

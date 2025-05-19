@@ -32,3 +32,15 @@ form, select, input, button, textarea, details, summary, progress {
     text-decoration: none;
     color: white;
 }
+
+table thead th {
+    background-color: darkred;
+}
+
+table tbody tr:nth-child(even) {
+    color: red;
+}
+
+table tbody tr:hover td {
+    background-color: blue;
+}
